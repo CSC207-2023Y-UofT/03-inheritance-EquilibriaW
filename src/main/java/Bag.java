@@ -21,7 +21,7 @@ public abstract class Bag {
     }
 
 
-    public String getcolor(){
+    public String getColor(){
         return this.color;
     }
 

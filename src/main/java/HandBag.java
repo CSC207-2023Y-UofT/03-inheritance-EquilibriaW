@@ -2,7 +2,6 @@
  * This file defines an child class named HandBag.
  * We have provided most of the code for this class, however,
  * you should implement the provided TODOs.
- *
  * You may find the readings in chapter 3. Relationships between Classes
  * helpful while working through this exercise.
  */
